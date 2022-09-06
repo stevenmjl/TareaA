@@ -1,0 +1,8 @@
+C:\Users\Steven\Documents\VS_Projects\TareaA\TareaA\bin\Debug\TareaA.exe.config
+C:\Users\Steven\Documents\VS_Projects\TareaA\TareaA\bin\Debug\TareaA.exe
+C:\Users\Steven\Documents\VS_Projects\TareaA\TareaA\bin\Debug\TareaA.pdb
+C:\Users\Steven\Documents\VS_Projects\TareaA\TareaA\obj\Debug\TareaA.csproj.AssemblyReference.cache
+C:\Users\Steven\Documents\VS_Projects\TareaA\TareaA\obj\Debug\TareaA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven\Documents\VS_Projects\TareaA\TareaA\obj\Debug\TareaA.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\VS_Projects\TareaA\TareaA\obj\Debug\TareaA.exe
+C:\Users\Steven\Documents\VS_Projects\TareaA\TareaA\obj\Debug\TareaA.pdb
